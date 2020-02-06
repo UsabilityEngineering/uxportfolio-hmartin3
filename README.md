@@ -5,5 +5,6 @@ Hello, my name is Haley Martin. I was born and raised on the central coast of Ca
 ## UX Team Project
 
 
-## UX Journal
+## UX Journal 
+[journal1](journal-01/README.md)
 
