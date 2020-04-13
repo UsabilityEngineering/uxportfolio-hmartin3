@@ -7,4 +7,4 @@ Hello, my name is Haley Martin. I was born and raised on the central coast of Ca
 
 ## UX Journal 
 [My first journal entry](journal-01/README.md)
-[My first journal entry](journal-01/README.md)
+[My first journal entry](journal-02)
