@@ -22,7 +22,7 @@ When I first interacted with the chat feature, I immediately noticed the directi
 
 As shown above, the meetings feature shows users their schedule and when they have upcoming meetings. Personally, I don't have a crazy schedule filled with meetings but I can see how this feature is **useful** to those who actively use Zoom. The page displays your personal meeting number. This is a lengthy ten digit number that is similar to a phone number. I found that this number is rather difficult to remember and in order for users to share their meeting number with others they would have to check back on the meetings page. This creates an extra steps for users and could potentially lead to **errors** if users mistype their personal number. To make this feature more **memorable**, I believe Zoom could benefit from having users create their own meeting number or potentially have the number link to their phone number.  
 
-All in all, Zoom has become wildly popular due to our current global situation. This platform is used by a wide range of users so it is important that the interface is optimized for **usabilty**. 
+All in all, Zoom has become wildly popular due to our current global situation. This platform is used by a wide range of users so it is important that the interface is optimized for **usability**. 
 
 
 
