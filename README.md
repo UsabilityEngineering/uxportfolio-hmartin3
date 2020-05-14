@@ -5,6 +5,7 @@ Hello, my name is Haley Martin. I was born and raised on the central coast of Ca
 
 ## UX Team Project
 [Volunteer Project](https://github.com/UsabilityEngineering/Volunteer)
+
 [Volunteer Xd prototype](https://xd.adobe.com/view/5bbd8a21-d7ac-43f2-4fea-d87a30fce811-2d8c/)
 
 ## UX Journal 
